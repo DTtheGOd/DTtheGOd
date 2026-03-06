@@ -4,7 +4,7 @@ Computer Science student at SPIT (Sardar Patel Institute of Technology)
 
 I enjoy building **AI-powered applications and scalable backend systems.**
 
-## 🚀 Projects
+##  Projects
 
 ### SitePilot
 AI-powered multi-tenant SaaS website builder  
@@ -18,18 +18,19 @@ Tech: React, FastAPI, OpenCV, PyTorch
 RAG-powered Bharatanatyam narrative generator  
 Tech: FastAPI, ChromaDB, Gemini API
 
-## 🧠 Interests
+##  Interests
 - System Design
 - AI Applications
 - Backend Engineering
 - Developer Tools
 
-## 💻 Tech Stack
+##  Tech Stack
 Java • Python • JavaScript  
 React • Node.js • FastAPI  
 PostgreSQL • MongoDB • Redis  
 Docker • Kubernetes
 
-## 📫 Connect With Me
-LinkedIn: (your link)
+## Connect With Me
+LinkedIn:
 Email: dhruv.10052006@gmail.com
+Leetcode: https://www.linkedin.com/in/dhruv-tiwari-hello/
