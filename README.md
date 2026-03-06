@@ -31,6 +31,6 @@ PostgreSQL • MongoDB • Redis
 Docker • Kubernetes
 
 ## Connect With Me
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/dhruv-tiwari-hello/
 Email: dhruv.10052006@gmail.com
-Leetcode: https://www.linkedin.com/in/dhruv-tiwari-hello/
+ 
